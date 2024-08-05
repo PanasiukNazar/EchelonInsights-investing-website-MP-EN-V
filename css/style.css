@@ -830,6 +830,12 @@
 }
 /*** training End ***/
 
+#approach {
+    @media (max-width: 772px) {
+        margin-top: 150px;
+    }
+}
+
 /*** Contact Start ***/
 .contact .office .office-item {
     text-align: center;
